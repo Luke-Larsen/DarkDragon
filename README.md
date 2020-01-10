@@ -1,6 +1,7 @@
 # DarkDragon
-My code for a minecraft hack client
-Website here http://pyrin.org/DarkDragon
+My code for a minecraft hack client(1.7.10) 
+This is as of now no longer supported D: It will most likly not get any updates
+Website here http://lukehanslarsen.com/DarkDragon
 
 #### If you feel like you would like to support me, you can do so here:
 - [Paypal](https://paypal.me/LukeLarsen/)
